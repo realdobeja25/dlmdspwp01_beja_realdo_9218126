@@ -26,3 +26,9 @@ pip install -r requirements.txt
 ###Once the dependencies are installed, you can run the project
 
 python main.py
+
+###OR
+
+It is possible to run the project like this :
+![image](https://github.com/user-attachments/assets/b404549f-9e3d-4dda-a9e0-5e1db5f51165)
+
